@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "Standard Filter Vial",
+    "tags" : ["100ul dead volume", "standard", "everyday"],
+      "appNotes" : ["standard appnote1", "standard appnote2", "standard appnote3"],
+    "description" : "Thomson Filter Vials (patented) are designed to speed up sample prep and analysis. The plunger filter with different membranes nestles into the vial while simultaneously filtering and readying the sample for any Autosampler. This is a process that minimizes any loss of sample eliminating multiple transfers. Pre-slit caps ensure a no-hassle, clean aliquot withdraw. Eliminating breakage of expensive needles, coring problems on the HPLC or Mass Spec. Thomson Filter Vials are compatible with most standard Autosamplers; such as Agilent® and Waters® including the UHPLC™. The ease of use will make the Filter Vial indispensable in all laboratories."
+    },
+    {
+      "name" : "eXtreme|FV",
+      "tags" : [" heavy particulate", "corn", "food"],
+      "appNotes" : ["eXtreme appnote1", "eXtreme appnote2", "eXtreme appnote3"],
+      "description" : "Thomson's filtration products are engineered and optimized to increase the efficiency of sample preparation without compromising the results. Our filter vials find a wide variety of applications ranging from life sciences, drug discovery, monitoring and analysis. They are universal for most autosamplers including UHPLC. Thomson eXtreme|FV® (patented) is designed to speed up the sample prep and analysis on particulate laden samples. Save on costly repairs and service issues while eliminating multiple syringes filters, syringes, HPLC vials and HPLC caps. The Thomson eXtreme|FV® is easy to press down with hands or toggle press."
+    },
+    {
+      "name" : "nano|Filter Vial",
+      "tags" : ["small sample", "dna"],
+      "appNotes" : ["nano appnote1", "nano appnote2", "nano appnote3"],
+      "description" : "Thomson's filtration products are engineered and optimized to increase the efficiency of sample preparation without compromising the results. Our filter vials are manufactured with attention to detail and high-grade quality to ensure performance at optimal levels. Our filter vials find a wide variety of applications ranging from life sciences, drug discovery, monitoring and analysis. They are universal for all different types of autosamplers including UHPLC."
+    },
+    {
+      "name" : "eXtractor3D|FV",
+      "tags" : ["SPE", "food", "blood", "urine", "juice"],
+      "appNotes" : ["eXtractor3D appnote1", "eXtractor3D appnote2", "eXtractor3D appnote3"],
+      "description" : "Thomson eXtractor3D|FV® (patented) offers filtration withincreased volume enabling multiple extraction techniques with different resins/sorbents or solids/large particulates (greater than 35%) to autosampler ready vials. eXtractor3D|FV® is a product uniquely designed for the addition of resins/sorbents, QuEChERS dispersive salts, pills, or special resins in the standard autosampler ready vial. The filter vial consists of two parts: a filter vial shell and a plunger which includes a multi-layer filter on one end and a screw cap on the other end. Large solids/large particulates can be placed within the eXtractor3D|FV® where multiple extraction techniques occur. Prior to the introduction of the eXtractor3D|FV®, samples required multiple steps using SPE, or other methods to remove interfering analytes and co-eluting compounds. SPE or Quechers can now be completed with multi-depth filtration without risk of solids compromising the autosampler. Pills and other large solids can be broken down for complete testing using the eXtractor3D|FV®. eXtractor3D|FV® allows for compounds to be separated from the matrix with the addition of resins/sorbents, resulting in both a higher signal to noise ratio and peaks that are more differentiated."
+    },
+    {
+      "name" : "Low Evap|Filter Vial",
+      "tags" : ["low evaporation", "volatile"],
+      "appNotes" : ["Low Evap appnote1", "Low Evap appnote2", "Low Evap appnote3"],
+      "description" : "Thomson's filtration products are engineered and optimized to increase the efficiency of sample preparation without compromising the results. Our filter vials are manufactured with attention to detail and high-grade quality to ensure performance at optimal levels. Our filter vials find a wide variety of applications ranging from life sciences, drug discovery, monitoring and analysis. They are universal for all different types of autosamplers including UHPLC."
+    },
+    {
+      "name" : "MEGA15|FV",
+      "tags" : ["15mL", "thick sample"],
+      "appNotes" : ["MEGA appnote1", "MEGA appnote2", "MEGA appnote3"],
+      "description" : "The MEGA|FV™ (patented) with 15mL working volume, from Thomson Instrument Company, performs similarly to our other Filter Vials. Available in multiple membranes (PVDF, PTFE & Nylon) and pore sizes (0.45µm & 0.2µm), the MEGA|FV™ can be used for many applications from biologics to chemistry to food science. The MEGA|FV™ is a valuable tool for fast filtration of large sample volumes in your daily applications. It allows for filtration of up to 15mL in one vial, letting you move quickly from sample clean-up to analysis or storage, and providing clean, filtered samples ready for multiple applications. The Multi-Use Press (p/n # 35015) can accommodate up to 8 MEGA|FV™s at a time. The Multi-Use Press 8-Position Rack fits most standard robots for automated sample applications."
+    }
+]

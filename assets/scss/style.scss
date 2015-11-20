@@ -6,3 +6,34 @@
 .outline{
     outline:1px solid red;
 }
+.inline-block{
+    display:inline-block;
+}
+.alphabet{
+    margin-bottom:2rem;
+    li{
+        border-right:1px solid $smoke;
+        border-radius:3px;
+        font-size:1rem;
+        line-height:2rem;
+        padding:.5rem .6rem;
+        cursor:pointer;
+        transition:background 250ms;
+        position:relative;
+        &:last-of-type{
+            border-right:none;
+        }
+        &:hover{
+            background:$smoke;
+        }
+        input[type="radio"]{
+            position:absolute;
+            left:-9000px;
+            top:-9000px;
+        }
+        label{
+            width:100%;
+            height:100%;
+        }
+    }
+}

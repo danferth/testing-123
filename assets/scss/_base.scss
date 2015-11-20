@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/fonts/fontawesome-webfont.woff') format('woff');
+}
+
+
+
+$base-color: hsla(0, 0%, 67%, 1);
+$white       : scale-color($base-color, $lightness: 100%);
+$ghost       : scale-color($base-color, $lightness: 94%);
+$snow        : scale-color($base-color, $lightness: 92%);
+$vapor       : scale-color($base-color, $lightness: 89%);
+$white-smoke : scale-color($base-color, $lightness: 88%);
+$silver      : scale-color($base-color, $lightness: 81%);
+$smoke       : scale-color($base-color, $lightness: 80%);
+$gainsboro   : scale-color($base-color, $lightness: 61%);
+$iron        : scale-color($base-color, $lightness: 39%);
+$base        : scale-color($base-color, $lightness:  0%);
+$aluminum    : scale-color($base-color, $lightness: -10%);
+$jumbo       : scale-color($base-color, $lightness: -20%);
+$monsoon     : scale-color($base-color, $lightness: -30%);
+$steel       : scale-color($base-color, $lightness: -40%);
+$charcoal    : scale-color($base-color, $lightness: -50%);
+$tuatara     : scale-color($base-color, $lightness: -60%);
+$oil         : scale-color($base-color, $lightness: -70%);
+$jet         : scale-color($base-color, $lightness: -80%);
+$black       : scale-color($base-color, $lightness: -100%);
